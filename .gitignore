@@ -31,3 +31,17 @@ sites/*/private
 
 # Ignore SimpleTest multi-site environment.
 # simpletest
+
+# Ignore bluehost default files
+.DS_Store
+400.shtml
+401.shtml
+403.shtml
+404.shtml
+500.php
+500.shtml
+default.html
+favicon.ico
+
+# Ignore .htaccess file
+.htaccess 
