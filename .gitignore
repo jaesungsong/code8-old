@@ -42,6 +42,7 @@ sites/*/private
 500.shtml
 default.html
 favicon.ico
+error_log
 
 # Ignore .htaccess file
 .htaccess 
